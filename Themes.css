@@ -1,0 +1,92 @@
+@charset "UTF-8";
+
+body
+{
+  text-align: center;
+  background-color: #707070;
+}
+
+.container
+{
+  width: 1000px;
+  margin: 0 auto;
+  background-color: white;
+  height: 1000px;
+  border-radius: 20px;
+}
+
+.body
+{
+  margin-top: 100px;
+  color: black;
+}
+
+footer
+{
+
+}
+
+header
+{
+  background: url("AtomEdit.JPG");
+  background-size: cover;
+  height: 400px;
+  margin-top: -15px;
+}
+
+ul li
+{
+  display: inline;
+  padding-right: 20px;
+  font-size: 20px;
+  color: white;
+  font-family: cursive;
+}
+
+a
+{
+  text-decoration: none;
+  color: white;
+}
+
+.maps
+{
+  width: 1000px;
+  height: 400px;
+}
+button
+{
+  height: 50px;
+  width: 120px;
+  border-radius: 5px;
+  background-color: #FF4500;
+  color: white;
+}
+
+ul
+{
+  background: rgba(0,0,0,.9);
+  margin-top: 105px;
+  height: 40px;
+
+}
+
+img
+{
+  width: 200px;
+  height: 200px;
+  border-radius: 40px;
+  margin-top: 30px;
+  border: 3px solid black;
+}
+
+h2
+{
+  color: white;
+  font-family: cursive;
+}
+
+h1
+{
+  margin-top: 108px;
+}
